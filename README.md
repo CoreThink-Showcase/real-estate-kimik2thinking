@@ -1,3 +1,9 @@
+## Prompt
+
+### "I’m looking to buy a house and want an AI to help compare listings and explain tradeoffs. Can you create a React frontend where users chat and view summarized property details?"
+
+<img width="1440" height="755" alt="image" src="https://github.com/user-attachments/assets/4c13f8cc-7924-4302-bbc9-30afe69c6523" />
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
